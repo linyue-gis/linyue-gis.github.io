@@ -36,8 +36,8 @@ title: Home
       </a>
       (GeoCompSoc Lab). I am also a Faculty Affiliate at the
       <a href="https://ncsa.illinois.edu/" target="_blank">
-        National Center for Supercomputing Applications
-      </a>,
+        National Center for Supercomputing Applications,
+      </a>
       <a href="https://csbs.research.illinois.edu/" target="_blank">
         Center for Social & Behavioral Science,
       </a> and
