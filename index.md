@@ -37,11 +37,13 @@ title: Home
       (GeoCompSoc Lab). I am also a Faculty Affiliate at the
       <a href="https://ncsa.illinois.edu/" target="_blank">
         National Center for Supercomputing Applications
-      </a>
-      and the
+      </a>,
       <a href="https://csbs.research.illinois.edu/" target="_blank">
-        Center for Social & Behavioral Science.
-      </a>
+        Center for Social & Behavioral Science,
+      </a> and
+      <a href="https://igpa.uillinois.edu/" target="_blank">
+        Institute of Government and Public Affairs.
+      </a>      
     </p>
     <p>
       My research examines the intersection of data, computation, and human values. I am interested in how emerging geospatial technologies can be designed and used in ethical, socially responsible, and beneficial ways. More broadly, my work spans spatial data science, location privacy, and critical geospatial artificial intelligence (GeoAI).
