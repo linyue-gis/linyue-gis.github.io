@@ -39,7 +39,7 @@ title: Home
         National Center for Supercomputing Applications,
       </a>
       <a href="https://csbs.research.illinois.edu/" target="_blank">
-        Center for Social & Behavioral Science,
+        Social & Behavioral Science Institute,
       </a> and
       <a href="https://igpa.uillinois.edu/" target="_blank">
         Institute of Government and Public Affairs.
